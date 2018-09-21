@@ -1,0 +1,11 @@
+ASS (AWS SSH Simple)
+====================
+
+Logon AWS EC2 instances easier even there is a jump box sitting in the middle, blocking you do thing fast.
+
+image::Fuzzy Search in Alfred.gif[Fuzzy Search in Alfred]
+
+References
+----------
+
+- Fuzzy search for Alfred 3, _https://github.com/deanishe/alfred-fuzzy_
