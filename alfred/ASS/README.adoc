@@ -9,3 +9,4 @@ References
 ----------
 
 - Fuzzy search for Alfred 3, _https://github.com/deanishe/alfred-fuzzy_
+- iTerm2 Alfred integration, _https://github.com/stuartcryan/custom-iterm-applescripts-for-alfred_
