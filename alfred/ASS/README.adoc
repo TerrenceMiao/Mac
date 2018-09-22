@@ -15,8 +15,10 @@ image::SSH Bastion.png[SSH jumpbox / bastion]
 
 [NOTE]
 ======
-But, logon AWS EC2 instances can be easier even there is a jump box sitting in the middle, blocking you do thing fast.
+Logon AWS EC2 instances can be easier even there is a jump box sitting in the middle, blocking you do thing fast.
 ======
+
+Introduce AWS SSH Simple script, and with fuzzy hosts search, on awesome powerful Alfred.
 
 image::Fuzzy Search in Alfred.gif[Fuzzy Search in Alfred]
 
