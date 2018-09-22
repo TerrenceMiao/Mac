@@ -1,7 +1,18 @@
+ifdef::env-github[]
+:tip-caption: :bulb:
+:note-caption: :information_source:
+:important-caption: :heavy_exclamation_mark:
+:caution-caption: :fire:
+:warning-caption: :warning:
+endif::[]
+
 ASS (AWS SSH Simple)
 ====================
 
+[NOTE]
+======
 Logon AWS EC2 instances easier even there is a jump box sitting in the middle, blocking you do thing fast.
+======
 
 image::Fuzzy Search in Alfred.gif[Fuzzy Search in Alfred]
 
@@ -9,6 +20,8 @@ Alfred Terminal Custom iTerm2
 -----------------------------
 
 image::Alfred Terminal Custom - iTerm2.gif[Alfred Terminal Custom - iTerm2]
+
+TIP: It works!
 
 
 References
