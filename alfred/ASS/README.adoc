@@ -8,7 +8,7 @@ image::Fuzzy Search in Alfred.gif[Fuzzy Search in Alfred]
 Alfred Terminal Custom iTerm2
 -----------------------------
 
-image::Alfred Termnial Custom - iTerm2.gif[Alfred Termnial Custom - iTerm2]
+image::Alfred Terminal Custom - iTerm2.gif[Alfred Terminal Custom - iTerm2]
 
 
 References
