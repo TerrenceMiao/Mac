@@ -5,12 +5,6 @@ Logon AWS EC2 instances easier even there is a jump box sitting in the middle, b
 
 image::Fuzzy Search in Alfred.gif[Fuzzy Search in Alfred]
 
-ASS script
-----------
-
-<script src="https://gist.github.com/TerrenceMiao/e1235cb4207e7ef460c66b9319b10b89.js"></script>
-
-
 Alfred Terminal Custom iTerm2
 -----------------------------
 
