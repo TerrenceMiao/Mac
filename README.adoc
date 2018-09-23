@@ -13,6 +13,8 @@ Table of contents
 
 
 [[Programming]]
+Programming
+-----------
 
 - JetBrains DataGrip, GoLang, IntelliJ IDEA, PyCharm, WebStorm
 - Visual Studio Code
@@ -22,6 +24,8 @@ image::https://camo.githubusercontent.com/a20ddc60825d99f4a39cd2eaaae34a70c514eb
 - Xcode
 
 [[Handy Tools]]
+Handy Tools
+-----------
 
 - Alfred, automatic batch job / workflow on Mac
 image::alfred/ASS/Fuzzy Search in Alfred.gif[Fuzzy Search in Alfred]
