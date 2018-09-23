@@ -7,8 +7,8 @@ Table of contents
 -----------------
 
 - Productivity
-  * <<Programming, way of creativitiy>>
-  * <<Tools, handy tools>>
+  * <<Programming, Programming way of creativitiy>>
+  * <<Tools, Handy Tools>>
 - <<References>>
 
 
@@ -16,8 +16,8 @@ Productivity
 ============
 
 [[Programming]]
-Programming
------------
+Programming way of creativity
+-----------------------------
 
 - JetBrains DataGrip, GoLang, IntelliJ IDEA, PyCharm, WebStorm
 
