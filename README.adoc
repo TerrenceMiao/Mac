@@ -25,11 +25,11 @@ Programming way of creativity
 
 image::https://camo.githubusercontent.com/456f1e620a18af3467f013fdf77630ad5769e930/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f336f36664a356e774f756d4848656a6338552f67697068792e676966[Settings Sync]
 
-... ...
+...
 
 image::https://camo.githubusercontent.com/96cf9494901099730fc3f5bb976c9b5e946be5dc/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f78543949676c4b78537173325764777132632f736f757263652e676966[Settings Sync]
 
-... ...
+...
 
 image::https://camo.githubusercontent.com/a20ddc60825d99f4a39cd2eaaae34a70c514eb0d/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f78543949676c7369334353396e6f453874572f736f757263652e676966[Settings Sync]
 
@@ -43,7 +43,7 @@ Handy Tools
 
 image::alfred/ASS/Fuzzy{sp}Search{sp}in{sp}Alfred.gif[Fuzzy Search in Alfred]
 
-... ...
+...
 
 image::alfred/ASS/Alfred{sp}Terminal{sp}Custom{sp}-{sp}iTerm2.gif[Alfred Terminal Custom - iTerm2]
 
