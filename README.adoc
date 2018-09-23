@@ -7,10 +7,13 @@ Table of contents
 -----------------
 
 - Productivity
-  * <<Progamming>>
+  * <<Programming>>
   * <<Handy Tools>>
 - <<References>>
 
+
+Productivity
+============
 
 [[Programming]]
 Programming
@@ -28,13 +31,13 @@ Handy Tools
 -----------
 
 - Alfred, automatic batch job / workflow on Mac
-image::alfred/ASS/Fuzzy Search in Alfred.gif[Fuzzy Search in Alfred]
-image::alfred/ASS/Alfred Terminal Custom - iTerm2.gif[Alfred Terminal Custom - iTerm2]
+image::alfred/ASS/Fuzzy{sp}Search{sp}in{sp}Alfred.gif[Fuzzy Search in Alfred]
+image::alfred/ASS/Alfred{sp}Terminal{sp}Custom{sp}-{sp}iTerm2.gif[Alfred Terminal Custom - iTerm2]
 
 
 
 [[References]]
 References
-----------
+==========
 
 - My wonderful world of macOS, _https://github.com/nikitavoloboev/my-mac-os_
