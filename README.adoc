@@ -25,45 +25,47 @@ Productivity
 Programming way of creativity
 -----------------------------
 
-- JetBrains DataGrip, GoLang, IntelliJ IDEA, PyCharm, WebStorm
+- JetBrains **DataGrip**, **GoLang**, **IntelliJ IDEA**, **PyCharm**, **WebStorm**
 
-- Visual Studio Code
+- **Visual Studio Code**
+
+Code Settings Sync
 
 image::https://camo.githubusercontent.com/456f1e620a18af3467f013fdf77630ad5769e930/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f336f36664a356e774f756d4848656a6338552f67697068792e676966[Settings Sync]
 
-...
+Uploading settings ...
 
 image::https://camo.githubusercontent.com/96cf9494901099730fc3f5bb976c9b5e946be5dc/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f78543949676c4b78537173325764777132632f736f757263652e676966[Settings Sync]
 
-...
+Downloading settings ...
 
 image::https://camo.githubusercontent.com/a20ddc60825d99f4a39cd2eaaae34a70c514eb0d/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f78543949676c7369334353396e6f453874572f736f757263652e676966[Settings Sync]
 
-- Xcode
-- iTerm2, MacOS Terminal replacement
-- fish shell, a smart and user friendly command line shell, _https://fishshell.com/_
-- Redis Desktop Manager, a cross-platform open source Redis DB management tool, _https://redisdesktop.com/_
-- RazorSQL, a SQL query tool, database browser, SQL editor, and database administration tool, _https://razorsql.com/_
-- Apache Directory Studio, a complete directory tooling platform intended to be used with any LDAP server
-- ForkLift, the most advanced dual pane file manager and file transfer client for Mac, _https://binarynights.com/_
-- KeyStore Explorer, an open source GUI replacement for the Java command-line utilities keytool and jarsigner, _https://keystore-explorer.org/_
-- DB Browser for SQLite, a high quality, visual, open source tool to create, design, and edit database files compatible with SQLite, _http://sqlitebrowser.org/_
+- **Xcode**
+- **iTerm2**, a modern terminal solution to replace MacOS Terminal
+- **fish shell**, a smart, intelligent, self-learning and user friendly command line shell, _https://fishshell.com/_
+- **Redis Desktop Manager**, a cross-platform open source Redis DB management tool, _https://redisdesktop.com/_
+- **RazorSQL**, a SQL query tool, database browser, SQL editor, and database administration tool, _https://razorsql.com/_
+- **Apache Directory Studio**, a complete directory tooling platform intended to be used with any LDAP server
+- **ForkLift**, the most advanced dual pane file manager and file transfer client for Mac, _https://binarynights.com/_
+- **KeyStore Explorer**, an open source GUI replacement for the Java command-line utilities keytool and jarsigner, _https://keystore-explorer.org/_
+- **DB Browser for SQLite**, a high quality, visual, open source tool to create, design, and edit database files compatible with SQLite, _http://sqlitebrowser.org/_
 
 
 [[Quality]]
 Quality Assurance
 -----------------
 
-- Postman, application makes API development simple
-- Docker for Mac
-- VirtualBox
+- **Postman**, application makes API development simple
+- **Docker for Mac**
+- **VirtualBox**
 
 
 [[Tools]]
 Handy Tools
 -----------
 
-- Alfred, automatic batch job / workflow for Mac
+- **Alfred**, automatic batch job / workflow for Mac
 
 image::alfred/ASS/Fuzzy{sp}Search{sp}in{sp}Alfred.gif[Fuzzy Search in Alfred]
 
@@ -71,64 +73,64 @@ image::alfred/ASS/Fuzzy{sp}Search{sp}in{sp}Alfred.gif[Fuzzy Search in Alfred]
 
 image::alfred/ASS/Alfred{sp}Terminal{sp}Custom{sp}-{sp}iTerm2.gif[Alfred Terminal Custom - iTerm2]
 
-- Karabiner, mechanic keyboard friend, keyboard customiser for Mac
-- KeepingYouAwake, a small menu bar utility prevents your Mac from entering sleep mode
-- Magnet, organise your workspace windows accordingly, _http://magnet.crowdcafe.com/_
-- Shuttle, a simple SSH shortcut menu for Mac, _http://fitztrev.github.io/shuttle/_
-- CheatSheet, just hold the ⌘-Key a bit longer to get a list of all active short cuts of the current application, as simple as that, _https://www.mediaatelier.com/CheatSheet/_
-- Charles, a HTTP proxy / HTTP monitor / Reverse Proxy that enables a developer to view all of the HTTP and SSL / HTTPS traffic between their machine and the Internet, _https://www.charlesproxy.com/_
-- GIPHY Capture, is the best way to create GIFs on your Mac, _https://giphy.com/apps/giphycapture_
-- Paste, a new way to copy and paste for your Mac, _https://pasteapp.me/_
-- The Unarchiver, the top application for archives on Mac, _https://macpaw.com/the-unarchiver_
-- Helium, a floating browser window that allows you to watch media while you work, _http://heliumfloats.com/_
+- **Karabiner**, mechanic keyboard friend, keyboard customiser for Mac
+- **KeepingYouAwake**, a small menu bar utility prevents your Mac from entering sleep mode
+- **Magnet**, organise your workspace windows accordingly, _http://magnet.crowdcafe.com/_
+- **Shuttle**, a simple SSH shortcut menu for Mac, _http://fitztrev.github.io/shuttle/_
+- **CheatSheet**, just hold the ⌘-Key a bit longer to get a list of all active short cuts of the current application, as simple as that, _https://www.mediaatelier.com/CheatSheet/_
+- **Charles**, a HTTP proxy / HTTP monitor / Reverse Proxy that enables a developer to view all of the HTTP and SSL / HTTPS traffic between their machine and the Internet, _https://www.charlesproxy.com/_
+- **GIPHY Capture**, is the best way to create GIFs on your Mac, _https://giphy.com/apps/giphycapture_
+- **Paste**, a new way to copy and paste for your Mac, _https://pasteapp.me/_
+- **The Unarchiver**, the top application for archives on Mac, _https://macpaw.com/the-unarchiver_
+- **Helium**, a floating browser window that allows you to watch media while you work, _http://heliumfloats.com/_
 
 
 [[Storage]]
 Cloud Storage
 -------------
 
-- Google Drive
-- Apple iCloud
-- Microsoft OneDrive
+- **Google Drive**
+- **Apple iCloud**
+- **Microsoft OneDrive**
 
 
 [[Versioning]]
 Source Version Control
 ----------------------
 
-- SourceTree, a Git GUI that offers a visual representation of your repositories
-- P4Merge, track and compare the effects of past and pending work for branches and individual files
+- **SourceTree**, a Git GUI that offers a visual representation of your repositories
+- **P4Merge**, track and compare the effects of past and pending work for branches and individual files
 
 
 [[Browsers]]
 Browsers
 --------
 
-- Chrome
-- Firefox
-- Safari
+- **Chrome**
+- **Firefox**
+- **Safari**
 
 
 [[Creativity]]
 Creativity
 ==========
 
-- Adobe Acrobat, Illustrator, InDesign, Lightroom, Photoshop, Premiere Pro
-- Sketch, a design toolkit built to help you create your best work — from your earliest ideas, through to final artwork, _https://www.sketchapp.com/_
-- Snagit, the only screen capture software with built-in advanced image editing and screen recording, _https://www.techsmith.com/screen-capture.html_
-- XMind, the most professional and popular mind mapping tool, _https://www.xmind.net/_
-- Lucidchart, create professional flowcharts, process maps, UML models, org charts, _https://www.lucidchart.com/_
-- Cloudcraft, visualize your AWS environment as isometric architecture diagrams, _https://cloudcraft.co/_
+- Adobe **Acrobat**, **Illustrator**, **InDesign**, **Lightroom**, **Photoshop**, **Premiere Pro**
+- **Sketch**, a design toolkit built to help you create your best work — from your earliest ideas, through to final artwork, _https://www.sketchapp.com/_
+- **Snagit**, the only screen capture software with built-in advanced image editing and screen recording, _https://www.techsmith.com/screen-capture.html_
+- **XMind**, the most professional and popular mind mapping tool, _https://www.xmind.net/_
+- **Lucidchart**, create professional flowcharts, process maps, UML models, org charts, _https://www.lucidchart.com/_
+- **Cloudcraft**, visualize your AWS environment as isometric architecture diagrams, _https://cloudcraft.co/_
 
 
 [[Office]]
 Office Suite
 ============
 
-- Microsoft Word, Excel, Outlook, Powerpoint, OneNote
-- Apple Numbers, Pages, Keynote
-- Slack, for fewer meetings, less internal email, all your tools integrated
-- Zoom, the leader in modern enterprise video communications, with an easy, reliable cloud platform for video, _https://zoom.us/_
+- Microsoft **Word**, **Excel**, **Outlook**, **Powerpoint**, **OneNote**
+- Apple **Numbers**, **Pages**, **Keynote**
+- **Slack**, for fewer meetings, less internal email, all your tools integrated
+- **Zoom**, the leader in modern enterprise video communications, with an easy, reliable cloud platform for video, _https://zoom.us/_
 
 
 [[References]]
