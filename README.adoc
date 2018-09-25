@@ -129,6 +129,9 @@ Office Suite
 
 - Microsoft **Word**, **Excel**, **Outlook**, **Powerpoint**, **OneNote**
 - Apple **Numbers**, **Pages**, **Keynote**
+
+image::Apple{sp}Keynote.png[Apple Keynote]
+
 - **Slack**, for fewer meetings, less internal email, all your tools integrated
 - **Zoom**, the leader in modern enterprise video communications, with an easy, reliable cloud platform for video, _https://zoom.us/_
 
