@@ -120,6 +120,13 @@ Creativity
 - **Snagit**, the only screen capture software with built-in advanced image editing and screen recording, _https://www.techsmith.com/screen-capture.html_
 - **XMind**, the most professional and popular mind mapping tool, _https://www.xmind.net/_
 - **Lucidchart**, create professional flowcharts, process maps, UML models, org charts, _https://www.lucidchart.com/_
+
+image::Lucidchart{sp}dependencies{sp}tree.png[Lucidchart dependencies tree]
+
+image::Lucidchart{sp}gantt{sp}chart.png[Lucidchart gantt chart]
+
+image::Lucidchart{sp}workflow.png[Lucidchart workflow]
+
 - **Cloudcraft**, visualize your AWS environment as isometric architecture diagrams, _https://cloudcraft.co/_
 
 
