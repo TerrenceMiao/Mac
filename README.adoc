@@ -76,7 +76,10 @@ image::alfred/ASS/Alfred{sp}Terminal{sp}Custom{sp}-{sp}iTerm2.gif[Alfred Termina
 - **Karabiner**, mechanic keyboard friend, keyboard customiser for Mac
 - **KeepingYouAwake**, a small menu bar utility prevents your Mac from entering sleep mode
 - **Magnet**, organise your workspace windows accordingly, _http://magnet.crowdcafe.com/_
-- **Shuttle**, a simple SSH shortcut menu for Mac, _http://fitztrev.github.io/shuttle/_
+- **Shuttle**, a simple SSH shortcut menu for Mac, easiliy to integrate with popular iTerm2, _http://fitztrev.github.io/shuttle/_
+
+image::Shuttle.png[Shuttle]
+
 - **CheatSheet**, just hold the ⌘-Key a bit longer to get a list of all active short cuts of the current application, as simple as that, _https://www.mediaatelier.com/CheatSheet/_
 - **Charles**, a HTTP proxy / HTTP monitor / Reverse Proxy that enables a developer to view all of the HTTP and SSL / HTTPS traffic between their machine and the Internet, _https://www.charlesproxy.com/_
 - **GIPHY Capture**, is the best way to create GIFs on your Mac, _https://giphy.com/apps/giphycapture_
