@@ -3,6 +3,8 @@ Mac
 
 Awesome and wonderful world of Mac
 
+image::Mac{sp}OS.png[Mac OS]
+
 Table of contents
 -----------------
 
