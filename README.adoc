@@ -76,7 +76,7 @@ image::alfred/ASS/Fuzzy{sp}Search{sp}in{sp}Alfred.gif[Fuzzy Search in Alfred]
 
 image::alfred/ASS/Alfred{sp}Terminal{sp}Custom{sp}-{sp}iTerm2.gif[Alfred Terminal Custom - iTerm2]
 
-- **Karabiner**, mechanic keyboard friend, keyboard customiser for Mac
+- **Karabiner**, mechanic keyboard friend, keyboard customiser for Mac, _https://pqrs.org/osx/karabiner/_
 
 image::Karabiner.png[Karabiner]
 
