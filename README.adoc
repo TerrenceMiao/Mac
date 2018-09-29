@@ -82,6 +82,9 @@ image::Karabiner.png[Karabiner]
 
 - **KeepingYouAwake**, a small menu bar utility prevents your Mac from entering sleep mode
 - **Magnet**, organise your workspace windows accordingly, _http://magnet.crowdcafe.com/_
+
+image::Magnet.png[Magnet]
+
 - **Shuttle**, a simple SSH shortcut menu for Mac, easily to integrate with popular iTerm2, _http://fitztrev.github.io/shuttle/_
 
 image::Shuttle.png[Shuttle]
