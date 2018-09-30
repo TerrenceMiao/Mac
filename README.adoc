@@ -32,15 +32,15 @@ JetBrains **DataGrip**, **GoLang**, **IntelliJ IDEA**, **PyCharm**, **WebStorm**
 
 **Visual Studio Code**
 
-Code Settings Sync
+- Code Settings Sync
 
 image::https://camo.githubusercontent.com/456f1e620a18af3467f013fdf77630ad5769e930/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f336f36664a356e774f756d4848656a6338552f67697068792e676966[Settings Sync]
 
-Uploading settings ...
+- Uploading settings ...
 
 image::https://camo.githubusercontent.com/96cf9494901099730fc3f5bb976c9b5e946be5dc/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f78543949676c4b78537173325764777132632f736f757263652e676966[Settings Sync]
 
-Downloading settings ...
+- Downloading settings ...
 
 image::https://camo.githubusercontent.com/a20ddc60825d99f4a39cd2eaaae34a70c514eb0d/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f78543949676c7369334353396e6f453874572f736f757263652e676966[Settings Sync]
 
@@ -80,9 +80,11 @@ Handy Tools
 
 **Alfred**, automatic batch job / workflow for Mac
 
+- Workflow
+
 image::alfred/ASS/Fuzzy{sp}Search{sp}in{sp}Alfred.gif[Fuzzy Search in Alfred]
 
-...
+- Preferences
 
 image::alfred/ASS/Alfred{sp}Terminal{sp}Custom{sp}-{sp}iTerm2.gif[Alfred Terminal Custom - iTerm2]
 
@@ -157,15 +159,15 @@ Adobe **Acrobat**, **Illustrator**, **InDesign**, **Lightroom**, **Photoshop**, 
 
 **Lucidchart**, create professional flowcharts, process maps, UML models, org charts, _https://www.lucidchart.com/_
 
-Dependencies Tree
+- Dependencies Tree
 
 image::Lucidchart{sp}dependencies{sp}tree.png[Lucidchart dependencies tree]
 
-Gantt Chart
+- Gantt Chart
 
 image::Lucidchart{sp}gantt{sp}chart.png[Lucidchart gantt chart]
 
-Workflow
+- Workflow
 
 image::Lucidchart{sp}workflow.png[Lucidchart workflow]
 
@@ -176,6 +178,7 @@ image::Cloudcraft.png[Cloudcraft]
 **Aerial screen saver**, Apple TV Aerial Views Screen Saver, _https://github.com/JohnCoates/Aerial_
 
 image::https://cloud.githubusercontent.com/assets/499192/10754100/c0e1cc4c-7c95-11e5-9d3b-842d3acc2fd5.gif[Aerial screen saver]
+
 
 [[Office]]
 Office Suite
