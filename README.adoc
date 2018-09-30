@@ -45,13 +45,21 @@ Downloading settings ...
 image::https://camo.githubusercontent.com/a20ddc60825d99f4a39cd2eaaae34a70c514eb0d/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f78543949676c7369334353396e6f453874572f736f757263652e676966[Settings Sync]
 
 **Xcode**
+
 **iTerm2**, a modern terminal solution to replace MacOS Terminal
+
 **fish shell**, a smart, intelligent, self-learning and user friendly command line shell, _https://fishshell.com/_
+
 **Redis Desktop Manager**, a cross-platform open source Redis DB management tool, _https://redisdesktop.com/_
+
 **RazorSQL**, a SQL query tool, database browser, SQL editor, and database administration tool, _https://razorsql.com/_
+
 **Apache Directory Studio**, a complete directory tooling platform intended to be used with any LDAP server
+
 **ForkLift**, the most advanced dual pane file manager and file transfer client for Mac, _https://binarynights.com/_
+
 **KeyStore Explorer**, an open source GUI replacement for the Java command-line utilities keytool and jarsigner, _https://keystore-explorer.org/_
+
 **DB Browser for SQLite**, a high quality, visual, open source tool to create, design, and edit database files compatible with SQLite, _http://sqlitebrowser.org/_
 
 
@@ -60,7 +68,9 @@ Quality Assurance
 -----------------
 
 **Postman**, application makes API development simple
+
 **Docker for Mac**
+
 **VirtualBox**
 
 
@@ -81,6 +91,7 @@ image::alfred/ASS/Alfred{sp}Terminal{sp}Custom{sp}-{sp}iTerm2.gif[Alfred Termina
 image::Karabiner.png[Karabiner]
 
 **KeepingYouAwake**, a small menu bar utility prevents your Mac from entering sleep mode
+
 **Magnet**, organise your workspace windows accordingly, _http://magnet.crowdcafe.com/_
 
 image::Magnet.png[Magnet]
@@ -90,10 +101,15 @@ image::Magnet.png[Magnet]
 image::Shuttle.png[Shuttle]
 
 **CheatSheet**, just hold the ⌘-Key a bit longer to get a list of all active short cuts of the current application, as simple as that, _https://www.mediaatelier.com/CheatSheet/_
+
 **Charles**, a HTTP proxy / HTTP monitor / Reverse Proxy that enables a developer to view all of the HTTP and SSL / HTTPS traffic between their machine and the Internet, _https://www.charlesproxy.com/_
+
 **GIPHY Capture**, is the best way to create GIFs on your Mac, _https://giphy.com/apps/giphycapture_
+
 **Paste**, a new way to copy and paste for your Mac, _https://pasteapp.me/_
+
 **The Unarchiver**, the top application for archives on Mac, _https://macpaw.com/the-unarchiver_
+
 **Helium**, a floating browser window that allows you to watch media while you work, _http://heliumfloats.com/_
 
 
@@ -102,7 +118,9 @@ Cloud Storage
 -------------
 
 **Google Drive**
+
 **Apple iCloud**
+
 **Microsoft OneDrive**
 
 [[Versioning]]
@@ -110,6 +128,7 @@ Source Version Control
 ----------------------
 
 **SourceTree**, a Git GUI that offers a visual representation of your repositories
+
 **P4Merge**, track and compare the effects of past and pending work for branches and individual files
 
 
@@ -118,7 +137,9 @@ Browsers
 --------
 
 **Chrome**
+
 **Firefox**
+
 **Safari**
 
 
@@ -127,9 +148,13 @@ Creativity
 ==========
 
 Adobe **Acrobat**, **Illustrator**, **InDesign**, **Lightroom**, **Photoshop**, **Premiere Pro**
+
 **Sketch**, a design toolkit built to help you create your best work — from your earliest ideas, through to final artwork, _https://www.sketchapp.com/_
+
 **Snagit**, the only screen capture software with built-in advanced image editing and screen recording, _https://www.techsmith.com/screen-capture.html_
+
 **XMind**, the most professional and popular mind mapping tool, _https://www.xmind.net/_
+
 **Lucidchart**, create professional flowcharts, process maps, UML models, org charts, _https://www.lucidchart.com/_
 
 Dependencies Tree
@@ -157,11 +182,13 @@ Office Suite
 ============
 
 Microsoft **Word**, **Excel**, **Outlook**, **Powerpoint**, **OneNote**
+
 Apple **Numbers**, **Pages**, **Keynote**
 
 image::Apple{sp}Keynote.png[Apple Keynote]
 
 **Slack**, for fewer meetings, less internal email, all your tools integrated
+
 **Zoom**, the leader in modern enterprise video communications, with an easy, reliable cloud platform for video, _https://zoom.us/_
 
 
