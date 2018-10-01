@@ -94,6 +94,11 @@ image::Karabiner.png[Karabiner]
 
 **KeepingYouAwake**, a small menu bar utility prevents your Mac from entering sleep mode
 
+image::KeepingYouAwake.png[KeepingYouAwake]
+
+- Especially useful when you have multiple desktop, external monitors, have to reset / readjust Windows each time after screen turned off
+- Can set up to run depends on battery capacity
+
 **Magnet**, organise your workspace windows accordingly, _http://magnet.crowdcafe.com/_
 
 image::Magnet.png[Magnet]
