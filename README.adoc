@@ -119,6 +119,9 @@ image::Shuttle.png[Shuttle]
 
 **Helium**, a floating browser window that allows you to watch media while you work, _http://heliumfloats.com/_
 
+**asciinema**, a tool easily to record a terminal session, _https://asciinema.org/a/134269_
+
+image::https://asciinema.org/a/134269.png[asciinema]
 
 [[Storage]]
 Cloud Storage
