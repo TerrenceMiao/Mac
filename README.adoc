@@ -123,6 +123,16 @@ image::Shuttle.png[Shuttle]
 
 image::https://asciinema.org/a/134269.png[asciinema]
 
+**ack**, a search tool like grep, optimized for programmers, designed for code, built to be a replacement for grep with higher speed and more options, _https://beyondgrep.com/_
+
+[source.console]
+----
+_   /|
+\'o.O'
+=(___)=
+   U    ack!
+----
+
 [[Storage]]
 Cloud Storage
 -------------
