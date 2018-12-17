@@ -60,6 +60,8 @@ image::https://camo.githubusercontent.com/a20ddc60825d99f4a39cd2eaaae34a70c514eb
 
 **KeyStore Explorer**, an open source GUI replacement for the Java command-line utilities keytool and jarsigner, _https://keystore-explorer.org/_
 
+image::KeyStore Explorer.png[KeyStore Explorer]
+
 **DB Browser for SQLite**, a high quality, visual, open source tool to create, design, and edit database files compatible with SQLite, _http://sqlitebrowser.org/_
 
 
