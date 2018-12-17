@@ -115,6 +115,10 @@ image::Shuttle.png[Shuttle]
 
 **Paste**, a new way to copy and paste for your Mac, _https://pasteapp.me/_
 
+**Battery Healthe 3 for Mac**, battery management tool, health check, battery information and more, _https://fiplab.com/apps/battery-health-3-for-mac_
+
+image::Battery Health 3.png[Battery Health 3]
+
 **The Unarchiver**, the top application for archives on Mac, _https://macpaw.com/the-unarchiver_
 
 **Helium**, a floating browser window that allows you to watch media while you work, _http://heliumfloats.com/_
