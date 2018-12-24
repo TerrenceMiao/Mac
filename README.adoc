@@ -125,6 +125,8 @@ image::Battery Health 3.png[Battery Health 3]
 
 **Helium**, a floating browser window that allows you to watch media while you work, _http://heliumfloats.com/_
 
+image::Helium.png[Helium]
+
 **asciinema**, a tool easily to record a terminal session, _https://asciinema.org/a/134269_
 
 image::https://asciinema.org/a/134269.png[asciinema]
