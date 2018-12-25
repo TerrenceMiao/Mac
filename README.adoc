@@ -111,6 +111,8 @@ image::Shuttle.png[Shuttle]
 
 **CheatSheet**, just hold the ⌘-Key a bit longer to get a list of all active short cuts of the current application, as simple as that, _https://www.mediaatelier.com/CheatSheet/_
 
+image::CheatSheet.png[CheatSheet]
+
 **Charles**, a HTTP proxy / HTTP monitor / Reverse Proxy that enables a developer to view all of the HTTP and SSL / HTTPS traffic between their machine and the Internet, _https://www.charlesproxy.com/_
 
 **GIPHY Capture**, is the best way to create GIFs on your Mac, _https://giphy.com/apps/giphycapture_
