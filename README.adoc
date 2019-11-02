@@ -143,6 +143,12 @@ _   /|
    U    ack!
 ----
 
+**Fanny**, a free Notification Center Widget and Menu Bar application to monitor your Macs fans, _https://fannywidget.com/_
+
+image::https://fannywidget.com/assets/images/FannyMacOSXWidget.jpg[Fanny Widget]
+
+image::https://fannywidget.com/assets/images/FannyMacOSXMenuBar.jpg[Fanny Menu Bar]
+
 [[Storage]]
 Cloud Storage
 -------------
