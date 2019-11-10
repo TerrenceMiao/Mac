@@ -129,6 +129,10 @@ image::Battery Health 3.png[Battery Health 3]
 
 image::Helium.png[Helium]
 
+**IINA**, The modern media player for macOS, _https://iina.io/_
+
+image::https://iina.io/images/sc-sky.png[IINA]
+
 **asciinema**, a tool easily to record a terminal session, _https://asciinema.org/a/134269_
 
 image::https://asciinema.org/a/134269.png[asciinema]
