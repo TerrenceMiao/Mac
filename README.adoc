@@ -169,6 +169,22 @@ image::https://fannywidget.com/assets/images/FannyMacOSXMenuBar.jpg[Fanny Menu B
 
 image::https://hazeover.com/images/shots/4-advanced_en-US.jpg[HazeOver]
 
+**Vanilla**, hide menu bar icons, _https://matthewpalmer.net/vanilla/_
+
+image::https://matthewpalmer.net/vanilla/vanilla-square-gif.gif[Vanilla]
+
+- MacOS Big Sur, more space added between icons in menu bar, making MacOS more like iPadOS
+
+image::Before Vanilla.png[Before Vanilla]
+
+- Too many menu bar icons are overlapped in MacOS Big Sur
+
+image::Before Vanilla Overlapped.png[Before Vanilla Overlapped]
+
+- With Vanilla installed
+
+image::With Vanilla.png[With Vanilla]
+
 
 [[Storage]]
 Cloud Storage
