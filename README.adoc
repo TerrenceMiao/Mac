@@ -62,6 +62,10 @@ image::https://camo.githubusercontent.com/a20ddc60825d99f4a39cd2eaaae34a70c514eb
 
 image::KeyStore Explorer.png[KeyStore Explorer]
 
+**GPG Suite / GPG Keychain**, GNU Privacy Guard support, _https://gpgtools.org/_
+
+image::GPG Keychain.png[GPG Keychain]
+
 **DB Browser for SQLite**, a high quality, visual, open source tool to create, design, and edit database files compatible with SQLite, _http://sqlitebrowser.org/_
 
 
@@ -72,6 +76,8 @@ Quality Assurance
 **Postman**, application makes API development simple
 
 **Docker for Mac**
+
+image::Docker.png[Docker Desktop for Mac]
 
 **VirtualBox**
 
@@ -123,6 +129,10 @@ image::CheatSheet.png[CheatSheet]
 
 image::Battery Health 3.png[Battery Health 3]
 
+**iStat Menus**, an advanced Mac system monitor for your menubar, _https://bjango.com/mac/istatmenus/_
+
+image::iStat Menus.png[iStat Menus]
+
 **The Unarchiver**, the top application for archives on Mac, _https://macpaw.com/the-unarchiver_
 
 **Helium**, a floating browser window that allows you to watch media while you work, _http://heliumfloats.com/_
@@ -131,7 +141,7 @@ image::Helium.png[Helium]
 
 **asciinema**, a tool easily to record a terminal session, _https://asciinema.org/a/134269_
 
-image::https://asciinema.org/a/134269.png[asciinema]
+<script id="asciicast-134269" src="https://asciinema.org/a/134269.js" async></script>
 
 **ack**, a search tool like grep, optimized for programmers, designed for code, built to be a replacement for grep with higher speed and more options, _https://beyondgrep.com/_
 
@@ -142,6 +152,8 @@ _   /|
 =(___)=
    U    ack!
 ----
+
+**ag**, Recursively Search for PATTERN in PATH. Like grep or ack, but faster.
 
 [[Storage]]
 Cloud Storage
