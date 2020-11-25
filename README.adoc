@@ -165,6 +165,11 @@ image::https://fannywidget.com/assets/images/FannyMacOSXWidget.jpg[Fanny Widget]
 
 image::https://fannywidget.com/assets/images/FannyMacOSXMenuBar.jpg[Fanny Menu Bar]
 
+**HazeOver**, Distraction Dimmer, _https://hazeover.com/_
+
+image::https://hazeover.com/images/shots/4-advanced_en-US.jpg[HazeOver]
+
+
 [[Storage]]
 Cloud Storage
 -------------
@@ -192,7 +197,7 @@ Browsers
 
 **Firefox**
 
-**Safari**
+**Safari**, now can stream 4K HDR and Dolby Vision content with MacOS Big Sur.
 
 
 [[Creativity]]
@@ -228,6 +233,12 @@ image::Cloudcraft.png[Cloudcraft]
 **Aerial screen saver**, Apple TV Aerial Views Screen Saver, _https://github.com/JohnCoates/Aerial_
 
 image::https://cloud.githubusercontent.com/assets/499192/10754100/c0e1cc4c-7c95-11e5-9d3b-842d3acc2fd5.gif[Aerial screen saver]
+
+**Audio Hijack**, if you can hear it, you can record it, _https://rogueamoeba.com/audiohijack/_
+
+image::https://rogueamoeba.com/audiohijack/images/hero-banner-large.png[Audio Hijack Watch Overview]
+
+**ScreenFlow**, video editing & screen recording, _http://www.telestream.net/screenflow/overview.htm_
 
 
 [[Office]]
