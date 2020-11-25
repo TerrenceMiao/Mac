@@ -139,6 +139,10 @@ image::iStat Menus.png[iStat Menus]
 
 image::Helium.png[Helium]
 
+**IINA**, The modern media player for macOS, _https://iina.io/_
+
+image::https://iina.io/images/sc-sky.png[IINA]
+
 **asciinema**, a tool easily to record a terminal session, _https://asciinema.org/a/134269_
 
 <script id="asciicast-134269" src="https://asciinema.org/a/134269.js" async></script>
@@ -154,6 +158,12 @@ _   /|
 ----
 
 **ag**, Recursively Search for PATTERN in PATH. Like grep or ack, but faster.
+
+**Fanny**, a free Notification Center Widget and Menu Bar application to monitor your Macs fans, _https://fannywidget.com/_
+
+image::https://fannywidget.com/assets/images/FannyMacOSXWidget.jpg[Fanny Widget]
+
+image::https://fannywidget.com/assets/images/FannyMacOSXMenuBar.jpg[Fanny Menu Bar]
 
 [[Storage]]
 Cloud Storage
