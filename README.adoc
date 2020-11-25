@@ -145,7 +145,7 @@ image::https://iina.io/images/sc-sky.png[IINA]
 
 **asciinema**, a tool easily to record a terminal session, _https://asciinema.org/a/134269_
 
-<script id="asciicast-134269" src="https://asciinema.org/a/134269.js" async></script>
+[![asciicast](https://asciinema.org/a/134269.svg)](https://asciinema.org/a/134269)
 
 **ack**, a search tool like grep, optimized for programmers, designed for code, built to be a replacement for grep with higher speed and more options, _https://beyondgrep.com/_
 
