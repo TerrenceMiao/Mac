@@ -100,7 +100,7 @@ image::alfred/ASS/Alfred{sp}Terminal{sp}Custom{sp}-{sp}iTerm2.gif[Alfred Termina
 
 image::Karabiner.png[Karabiner]
 
-**KeepingYouAwake**, a small menu bar utility prevents your Mac from entering sleep mode
+**KeepingYouAwake**, a small menu bar utility prevents your Mac from entering sleep mode, _https://keepingyouawake.app/_
 
 image::KeepingYouAwake.png[KeepingYouAwake]
 
@@ -229,6 +229,10 @@ Browsers
 **Firefox**
 
 **Safari**, now can stream 4K HDR and Dolby Vision content with MacOS Big Sur.
+
+image::HDR video in Chrome.png[HDR video in Chrome]
+
+image::HDR video in Safari.png[HDR video in Safari]
 
 
 [[Creativity]]
