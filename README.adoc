@@ -196,6 +196,11 @@ image::Text Scanner 2.png[Text Scanner]
 image::Text Scanner 3.png[Text Scanner]
 image::Text Scanner 4.png[Text Scanner]
 
+**DaisyDisk**, a disk space analyzer for macOS. It displays a sunburst diagram of files on a hard drive to help with the location or deletion of large files. It can display previews of files using Quick Look. It also allows the user to look at the file directly in Finder, in order to delete it or move it elsewhere, _https://daisydiskapp.com/_
+
+image::DaisyDisk.png[DaisyDisk]
+
+
 [[Storage]]
 Cloud Storage
 -------------
