@@ -185,6 +185,16 @@ image::Before Vanilla Overlapped.png[Before Vanilla Overlapped]
 
 image::With Vanilla.png[With Vanilla]
 
+**AppCleaner**, allows you to thoroughly uninstall unwanted apps, _https://freemacsoft.net/appcleaner/_
+
+image::https://freemacsoft.net/img/appcleaner.png[AppCleaner]
+
+**Text Scanner - PDF & Document**, a powerful image scanning tool based on AI's leading deep learning algorithm that uses optical character recognition technology to convert text content directly into editable text, _https://apps.apple.com/au/app/text-scanner-pdf-document/id1452523807_
+
+image::Text Scanner 1.png[Text Scanner]
+image::Text Scanner 2.png[Text Scanner]
+image::Text Scanner 3.png[Text Scanner]
+image::Text Scanner 4.png[Text Scanner]
 
 [[Storage]]
 Cloud Storage
