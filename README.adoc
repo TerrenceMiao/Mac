@@ -230,7 +230,11 @@ Browsers
 
 **Safari**, now can stream 4K HDR and Dolby Vision content with MacOS Big Sur.
 
+- HDR video in Chrome
+
 image::HDR video in Chrome.png[HDR video in Chrome]
+
+- HDR video in Safari
 
 image::HDR video in Safari.png[HDR video in Safari]
 
