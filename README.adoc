@@ -281,6 +281,12 @@ image::https://rogueamoeba.com/audiohijack/images/hero-banner-large.png[Audio Hi
 
 image::https://www.telestream.net/company/press/images/PressImage-ScreenFlow8.jpg[ScreenFlow]
 
+**MindNode**, the most delightful mind mapping app for Mac and iOS. It helps you capture your thoughts and create a clear picture of your idea, _https://mindnode.com/_
+
+image::MindNode.jpg[MindNode]
+
+image::MindNode.gif[MindNode]
+
 
 [[Office]]
 Office Suite
