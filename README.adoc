@@ -185,6 +185,12 @@ image::Before Vanilla Overlapped.png[Before Vanilla Overlapped]
 
 image::With Vanilla.png[With Vanilla]
 
+**App Cleaner && Uninstaller**, a tool to delete apps on Mac completely and safely, _https://nektony.com/mac-app-cleaner_
+
+image::App Cleaner Uninstaller 1.png[App Cleaner Uninstaller]
+
+image::App Cleaner Uninstaller 2.png[App Cleaner Uninstaller]
+
 **AppCleaner**, allows you to thoroughly uninstall unwanted apps, _https://freemacsoft.net/appcleaner/_
 
 image::https://freemacsoft.net/img/appcleaner.png[AppCleaner]
