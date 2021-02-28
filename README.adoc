@@ -219,6 +219,10 @@ Build bootable image in USB sticker.
 image::balenaEtcher 3.png[balenaEtcher]
 image::balenaEtcher 4.png[balenaEtcher]
 
+**Vysor**, A windows to your Android, _https://www.vysor.io/_
+
+image::Vysor.png[Vysor]
+
 [[Storage]]
 Cloud Storage
 -------------
