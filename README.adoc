@@ -206,7 +206,7 @@ image::Text Scanner 4.png[Text Scanner]
 
 image::DaisyDisk.png[DaisyDisk]
 
-**balenaEtcher**, Flash OS images to SD cards & USB drives, safely and easily, _https://www.balena.io/etcher_
+**balenaEtcher**, Flash OS images to SD cards & USB & DVD drives, safely and easily, _https://www.balena.io/etcher_
 
 image::balenaEtcher 1.png[balenaEtcher]
 
@@ -218,6 +218,10 @@ Build bootable image in USB sticker.
 
 image::balenaEtcher 3.png[balenaEtcher]
 image::balenaEtcher 4.png[balenaEtcher]
+
+**Vysor**, A windows to your Android, _https://www.vysor.io/_
+
+image::Vysor.png[Vysor]
 
 [[Storage]]
 Cloud Storage
