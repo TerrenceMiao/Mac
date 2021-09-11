@@ -313,6 +313,10 @@ image::MindNode.gif[MindNode]
 
 image::https://media.giphy.com/media/yl3XErRq8qmmA/giphy.gif[Matrix]
 
+**Jubler**, Jubler is a tool to edit text-based subtitles. It can be used as an authoring software for new subtitles or as a tool to convert, transform, correct and refine existing subtitles, _https://www.jubler.org/_
+
+image::Jubler.png[Jubler]
+
 
 [[Office]]
 Office Suite
