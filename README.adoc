@@ -277,6 +277,10 @@ image::Hopper Disassembler.png[Hopper Disassembler]
 
 image::Class-dump.png[Class-dump]
 
+**Hex Fiend**, a fast and clever open source hex editor for macOS, _https://hexfiend.com/_
+
+image::Hex Fiend.png[Hex Fiend]
+
 [[Creativity]]
 Creativity
 ==========
