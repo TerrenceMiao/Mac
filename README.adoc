@@ -321,6 +321,26 @@ image::MindNode.gif[MindNode]
 
 image::https://media.giphy.com/media/yl3XErRq8qmmA/giphy.gif[Matrix]
 
+**Jubler**, Jubler is a tool to edit text-based subtitles. It can be used as an authoring software for new subtitles or as a tool to convert, transform, correct and refine existing subtitles, _https://www.jubler.org/_
+
+image::Jubler.png[Jubler]
+
+**Bartendar**, a tool is giving you total control over your menu bar items, what's displayed, and when, with menu bar items only showing when you need them, _https://www.macbartender.com/_
+
+image::Bartender.png[Bartender 4]
+
+**mathpix Snip Tooling**, a tool for extracting text, and particularly math, from images and documents, _https://mathpix.com/_
+
+image::mathpix Snip Tooling 1.png[mathpix Snip Tooling]
+
+image::mathpix Snip Tooling 2.png[mathpix Snip Tooling]
+
+image::mathpix Snip Tooling 3.png[mathpix Snip Tooling]
+
+**TinkerTool**, an application that gives you access to additional preference settings Apple has built into macOS. This allows to activate hidden features in the operating system and in some of the applications delivered with the system, _https://www.bresink.com/osx/TinkerTool.html_
+
+image::TinkerTool.png[TinkerTool]
+
 
 [[Office]]
 Office Suite
