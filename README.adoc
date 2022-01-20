@@ -273,6 +273,10 @@ Hacking
 
 image::Hopper Disassembler.png[Hopper Disassembler]
 
+**Class-dump**, is a command-line utility for examining the Objective-C runtime information stored in Mach-O files. It generates declarations for the classes, categories and protocols, _http://stevenygard.com/projects/class-dump/_
+
+image::Class-dump.png[Class-dump]
+
 [[Creativity]]
 Creativity
 ==========
