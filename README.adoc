@@ -15,6 +15,7 @@ Table of contents
   * <<Storage, Cloud Storage>>
   * <<Versioning, Source Version Control>>
   * <<Browsers>>
+  * <<Hacking>>
 - <<Creativity>>
 - <<Office, Office Suite>>
 - <<References>>
@@ -242,7 +243,7 @@ Source Version Control
 **P4Merge**, track and compare the effects of past and pending work for branches and individual files
 
 
-[[Browsers]]
+[Browsers]
 Browsers
 --------
 
@@ -260,6 +261,13 @@ image::HDR video in Chrome.png[HDR video in Chrome]
 
 image::HDR video in Safari.png[HDR video in Safari]
 
+[[Hacking]]
+Hacking
+-------
+
+**Hopper Disassembler**, the reverse engineering tool that lets you disassemble, decompile and debug your applications, https://www.hopperapp.com/
+
+image::Hopper Disassembler.png[Hopper Disassembler]
 
 [[Creativity]]
 Creativity
