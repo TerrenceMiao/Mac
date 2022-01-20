@@ -224,6 +224,10 @@ image::balenaEtcher 4.png[balenaEtcher]
 
 image::Vysor.png[Vysor]
 
+**Paw**, a full-featured HTTP client that lets you test and describe the APIs you build or consume. It has a beautiful native macOS interface to compose requests, inspect server responses, generate client code and export API definitions, _https://paw.cloud/_
+
+image::Paw.png[Paw]
+
 [[Storage]]
 Cloud Storage
 -------------
@@ -265,7 +269,7 @@ image::HDR video in Safari.png[HDR video in Safari]
 Hacking
 -------
 
-**Hopper Disassembler**, the reverse engineering tool that lets you disassemble, decompile and debug your applications, https://www.hopperapp.com/
+**Hopper Disassembler**, the reverse engineering tool that lets you disassemble, decompile and debug your applications, _https://www.hopperapp.com/_
 
 image::Hopper Disassembler.png[Hopper Disassembler]
 
