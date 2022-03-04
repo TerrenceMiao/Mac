@@ -228,6 +228,12 @@ image::Vysor.png[Vysor]
 
 image::Paw.png[Paw]
 
+It might seem hard to believe, but Apple does not include a simple, blank screen saver with macOS.
+
+Just a simple, blank screen saver for your Mac, _https://intelliscapesolutions.com/screensavers/blankscreen_
+
+
+
 [[Storage]]
 Cloud Storage
 -------------
