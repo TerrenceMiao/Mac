@@ -236,6 +236,9 @@ image::Inkscape.png[Inkscape]
 
 Just a simple, blank screen saver for your Mac, _https://intelliscapesolutions.com/screensavers/blankscreen_
 
+**Send Anywhere**, transfer files between e.g. Mac and Android via WiFi or internet. No login access required, _https://send-anywhere.com/product_
+
+image::Send Anywhere.png[Send Anywhere]
 
 
 [[Storage]]
