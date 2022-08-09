@@ -240,6 +240,12 @@ Just a simple, blank screen saver for your Mac, _https://intelliscapesolutions.c
 
 image::Send Anywhere.png[Send Anywhere]
 
+**CleanMyMac X**, delete system junk, unwanted apps and malware, and tune your Mac for maximum speed, _https://cleanmymac.com/_
+
+video::https://cdn.cleanmymac.com/video/main_topper.mp4[width=720,opts=autoplay,loop]
+
+image::CleanMyMac X.png[CleanMyMac X]
+
 
 [[Storage]]
 Cloud Storage
