@@ -254,6 +254,10 @@ image::MonitorControl.png[MonitorControl]
 
 image::AltTab.png[AltTab]
 
+*shottr***, is a small, fast, human-sized screenshot app built for those who care about pixels. It was crafted with Swift, optimized for M1, and is distributed for free.
+
+video::https://shottr.cc/assets/154-shottr-demo.mp4[width=720,opts=autoplay,loop]
+
 
 [[Storage]]
 Cloud Storage
