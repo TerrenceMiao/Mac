@@ -244,7 +244,7 @@ image::Send Anywhere.png[Send Anywhere]
 
 video::https://cdn.cleanmymac.com/video/main_topper.mp4[width=720,opts=autoplay,loop]
 
-https://cdn.cleanmymac.com/video/main_topper.mp4
+https://cdn.cleanmymac.com/video/main_topper.mp4[image:CleanMyMac X Scan.jpeg[CleanMyMac X]]
 
 image::CleanMyMac X.png[CleanMyMac X]
 
@@ -257,6 +257,8 @@ image::MonitorControl.png[MonitorControl]
 image::AltTab.png[AltTab]
 
 *shottr***, is a small, fast, human-sized screenshot app built for those who care about pixels. It was crafted with Swift, optimized for M1, and is distributed for free, _https://shottr.cc/_
+
+video::https://shottr.cc/assets/154-shottr-demo.mp4[width=720,opts=autoplay,loop]
 
 https://shottr.cc/assets/154-shottr-demo.mp4[image:shottr.png[shottr]]
 
