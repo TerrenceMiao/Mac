@@ -244,6 +244,8 @@ image::Send Anywhere.png[Send Anywhere]
 
 video::https://cdn.cleanmymac.com/video/main_topper.mp4[width=720,opts=autoplay,loop]
 
+https://cdn.cleanmymac.com/video/main_topper.mp4
+
 image::CleanMyMac X.png[CleanMyMac X]
 
 **MonitorControl**, for Apple Silicon and Intel, controls your external display brightness and volume and shows native OSD. Use menulet sliders or the keyboard, including native Apple keys, https://github.com/MonitorControl/MonitorControl
