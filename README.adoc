@@ -290,10 +290,6 @@ Source Version Control
 Browsers
 --------
 
-**Chrome**
-
-**Firefox**
-
 **Safari**, now can stream 4K HDR and Dolby Vision content with MacOS Big Sur.
 
 - HDR video in Chrome
