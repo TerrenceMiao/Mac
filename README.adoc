@@ -352,7 +352,7 @@ image::https://cloud.githubusercontent.com/assets/499192/10754100/c0e1cc4c-7c95-
 
 **Audio Hijack**, if you can hear it, you can record it, _https://rogueamoeba.com/audiohijack/_
 
-image::https://rogueamoeba.com/audiohijack/images/hero-banner-large.png[Audio Hijack Watch Overview]
+image::Audio{sp}Hijack.png[Audio Hijack Watch Overview]
 
 **ScreenFlow**, video editing & screen recording, _http://www.telestream.net/screenflow/overview.htm_
 
