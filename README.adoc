@@ -236,6 +236,10 @@ image::Inkscape.png[Inkscape]
 
 Just a simple, blank screen saver for your Mac, _https://intelliscapesolutions.com/screensavers/blankscreen_
 
+**SHAREit**, is a peer to peer file sharing, content streaming and gaming platform that supports online and offline sharing of files and contents, _https://www.ushareit.com/_
+
+image::SHAREit.jpeg[SHAREit]
+
 **Send Anywhere**, transfer files between e.g. Mac and Android via WiFi or internet. No login access required, _https://send-anywhere.com/product_
 
 image::Send Anywhere.png[Send Anywhere]
