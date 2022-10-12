@@ -270,6 +270,10 @@ https://shottr.cc/assets/154-shottr-demo.mp4[image:shottr.png[shottr]]
 
 image::OnyX.png[OnyX]
 
+**Quiet Reader**, is a free Mac app that let's you read articles (from your browser) or text highlights (from any app) distraction free. All the ads, notifications, tabs and messy desktop are taken away so you can focus on what you're reading, _https://quietreader.app/_
+
+image::Quiet Reader.png[Quiet Reader]
+
 
 [[Storage]]
 Cloud Storage
@@ -391,6 +395,18 @@ image::mathpix Snip Tooling 3.png[mathpix Snip Tooling]
 **TinkerTool**, an application that gives you access to additional preference settings Apple has built into macOS. This allows to activate hidden features in the operating system and in some of the applications delivered with the system, _https://www.bresink.com/osx/TinkerTool.html_
 
 image::TinkerTool.png[TinkerTool]
+
+**OBS Studio**, free and open source software for video recording and live streaming, _https://obsproject.com/_
+
+image::OBS Studio.png[OBS Studio]
+
+**Blender**, is the free and open source 3D creation suite. It supports the entirety of the 3D pipeline—modeling, rigging, animation, simulation, rendering, compositing and motion tracking, even video editing and game creation, _https://www.blender.org/_
+
+image::Blender.png[Blender]
+
+**Krita**, is a professional FREE and open source painting program. It is made by artists that want to see affordable art tools for everyone, _https://krita.org/en/_
+
+image::Krita.png[Krita]
 
 
 [[Office]]
