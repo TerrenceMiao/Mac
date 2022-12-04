@@ -274,6 +274,10 @@ image::OnyX.png[OnyX]
 
 image::Quiet Reader.png[Quiet Reader]
 
+The **SD Memory Card Formatter** formats SD Memory Card, SDHC Memory Card and SDXC Memory Card complying with the SD File System Specification created by the SD Association, _https://www.sdcard.org/downloads/formatter/_
+
+image::SD Card Formatter.png[SD Card Formatter]
+
 
 [[Storage]]
 Cloud Storage
