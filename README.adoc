@@ -12,6 +12,7 @@ Table of contents
   * <<Programming, Programming way of creativitiy>>
   * <<Quality, Quality Assurance>>
   * <<Tools, Handy Tools>>
+  * <<Benchmark>>
   * <<Storage, Cloud Storage>>
   * <<Versioning, Source Version Control>>
   * <<Browsers>>
@@ -47,7 +48,11 @@ image::https://camo.githubusercontent.com/a20ddc60825d99f4a39cd2eaaae34a70c514eb
 
 **Xcode**
 
-**iTerm2**, a modern terminal solution to replace MacOS Terminal
+**iTerm2**, a modern terminal solution to replace MacOS Terminal, _https://iterm2.com/_
+
+**Warp**, the terminal for the 21st century, _https://www.warp.dev/_
+
+image::https://storage.googleapis.com/website-image-preview/www_warp_dev.png[Warp]
 
 **fish shell**, a smart, intelligent, self-learning and user friendly command line shell, _https://fishshell.com/_
 
@@ -96,6 +101,14 @@ image::alfred/ASS/Fuzzy{sp}Search{sp}in{sp}Alfred.gif[Fuzzy Search in Alfred]
 - Preferences
 
 image::alfred/ASS/Alfred{sp}Terminal{sp}Custom{sp}-{sp}iTerm2.gif[Alfred Terminal Custom - iTerm2]
+
+**Raycast**, a blazingly fast, totally extendable launcher. It lets you complete tasks, calculate, share common links, and much more, _https://www.raycast.com/_
+
+image::Raycast.png[Raycast]
+
+**Fig**, the next-generation command line, makes the command line easier and more collaborative, _https://fig.io/_
+
+image::Fig.png[Fig]
 
 **Karabiner**, mechanic keyboard friend, keyboard customiser for Mac, _https://pqrs.org/osx/karabiner/_
 
@@ -278,6 +291,37 @@ The **SD Memory Card Formatter** formats SD Memory Card, SDHC Memory Card and SD
 
 image::SD Card Formatter.png[SD Card Formatter]
 
+**TG Pro**, temperature monitoring, fan control & diagnostics for all Macs, _https://www.tunabellysoftware.com/tgpro/_
+
+image::TG Pro.png[TG Pro]
+
+**Macs Fan Control**, monitor and control fans on Apple computers, _https://crystalidea.com/macs-fan-control_
+
+image::Macs Fan Control.png[Macs Fan Control]
+
+**Desktop flip clock - Countdown**, sticky timer & network speed, _https://apps.apple.com/us/app/desktop-flip-clock-countdown/_
+
+image::Flip Clock.png[Flip Clock]
+
+**Mini Calendar**, handy monthly popup calendar, _https://apps.apple.com/us/app/mini-calendar/_
+
+image::Mini Calendar.png[Mini Calendar]
+
+[[Benchmark]]
+Benchmark
+---------
+
+**Endurance: CPU Stress Test**, test thermal limits, CPU load, battery life + full logging, _https://www.tunabellysoftware.com/cpu_stress_test/_
+
+image::Endurance - CPU Stress Test.png[Endurance - CPU Stress Test]
+
+**Blackmagic Disk Speed Test**, is an easy to use tool to quickly measure and certify your disk performance for working with high quality video, _https://apps.apple.com/au/app/blackmagic-disk-speed-test/_
+
+image::Blackmagic Disk Speed Test.png[Blackmagic Disk Speed Test]
+
+**AmorphousDiskMark**, measures storage read/write performance in MB/s and IOPS, _https://www.katsurashareware.com/amorphousdiskmark/_
+
+image::AmorphousDiskMark.png[AmorphousDiskMark]
 
 [[Storage]]
 Cloud Storage
@@ -295,8 +339,11 @@ Source Version Control
 
 **SourceTree**, a Git GUI that offers a visual representation of your repositories
 
-**P4Merge**, track and compare the effects of past and pending work for branches and individual files
+**GitKraken**, an intuitive Git GUI & powerful Git CLI, _https://www.gitkraken.com/_
 
+image::GitKraken.png[GitKraken]
+
+**P4Merge**, track and compare the effects of past and pending work for branches and individual files
 
 [[Browsers]]
 Browsers
@@ -412,7 +459,6 @@ image::Blender.png[Blender]
 
 image::Krita.png[Krita]
 
-
 [[Office]]
 Office Suite
 ============
@@ -420,7 +466,6 @@ Office Suite
 Apple **Numbers**, **Pages**, **Keynote**
 
 image::Apple{sp}Keynote.png[Apple Keynote]
-
 
 [[References]]
 References
