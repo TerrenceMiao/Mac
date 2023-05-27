@@ -311,6 +311,10 @@ image::Mini Calendar.png[Mini Calendar]
 
 image::ImageOptim.png[ImageOptim]
 
+**Color Picker**, picks colors from anywhere using the built-in color picker, _https://apps.apple.com/us/app/system-color-picker/id1545870783_
+
+image::Color Picker.png[Color Picker]
+
 [[Benchmark]]
 Benchmark
 ---------
