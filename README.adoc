@@ -307,6 +307,10 @@ image::Flip Clock.png[Flip Clock]
 
 image::Mini Calendar.png[Mini Calendar]
 
+**ImageOptim**, removes bloated metadata, saves disk space & bandwidth by compressing images without losing quality, makes images load faster, _https://imageoptim.com/mac_
+
+image::ImageOptim.png[ImageOptim]
+
 [[Benchmark]]
 Benchmark
 ---------
