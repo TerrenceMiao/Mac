@@ -315,6 +315,10 @@ image::ImageOptim.png[ImageOptim]
 
 image::Color Picker.png[Color Picker]
 
+**PopClip**, appears when you select text with your mouse on your Mac, instantly copy & paste, and access actions like search, spelling, dictionary and many, many more, _https://pilotmoon.com/popclip/_
+
+image::PopClip.png[PopClip]
+
 [[Benchmark]]
 Benchmark
 ---------
