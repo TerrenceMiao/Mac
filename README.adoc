@@ -78,6 +78,8 @@ image::Proxyman.jpg[Proxyman]
 
 **DB Browser for SQLite**, a high quality, visual, open source tool to create, design, and edit database files compatible with SQLite, _http://sqlitebrowser.org/_
 
+image::SQLite.png[SQLite]
+
 
 [[Quality]]
 Quality Assurance
