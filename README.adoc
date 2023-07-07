@@ -72,6 +72,10 @@ image::KeyStore Explorer.png[KeyStore Explorer]
 
 image::GPG Keychain.png[GPG Keychain]
 
+**Proxyman**, a high performance MacOS app, which enables developers to view HTTP/HTTPS requests from apps and domains, including iOS devices, iOS Simulators, and Android devices, _https://proxyman.io/_
+
+image::Proxyman.jpg[Proxyman]
+
 **DB Browser for SQLite**, a high quality, visual, open source tool to create, design, and edit database files compatible with SQLite, _http://sqlitebrowser.org/_
 
 
