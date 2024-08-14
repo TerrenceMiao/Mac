@@ -40,7 +40,7 @@ JetBrains **DataGrip**, **GoLang**, **IntelliJ IDEA**, **PyCharm**, **WebStorm**
 
 **Warp**, the terminal for the 21st century, _https://www.warp.dev/_
 
-image::https://storage.googleapis.com/website-image-preview/www_warp_dev.png[Warp]
+image::Warp.jpg[Warp]
 
 **fish shell**, a smart, intelligent, self-learning and user friendly command line shell, _https://fishshell.com/_
 
