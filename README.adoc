@@ -147,7 +147,7 @@ image::iStat Menus.png[iStat Menus]
 
 **The Unarchiver**, the top application for archives on Mac, _https://macpaw.com/the-unarchiver_
 
-**Helium**, a floating browser window that allows you to watch media while you work, _http://heliumfloats.com/_
+**Helium**, a floating browser window that allows you to watch media while you work, _https://github.com/JadenGeller/Helium_ and its successor _https://github.com/slashlos/Helium_
 
 image::Helium.png[Helium]
 
